@@ -1,0 +1,46 @@
+Power BI Project: Hospitality Domain
+In this project, I have analyzed a data set from hospitality industry.
+Data set is from codebasics
+Approach:
+1.     Analyzed the data set and studied the tables.
+2.     Data cleaning – Using power query
+3.     Data modelling – Star schema data model
+4.     Data visualization – created appropriate measures using DAX
+
+
+
+Hello Everyone,
+ 
+I would like to share my dashboard on the Codebasics Resume Project Challenge with you.
+
+Domain: Hospitality   
+Function: Revenue
+
+Learnings from this project
+1.) Key terminology used in the hospitality domain.
+2.) Learnt how to use suitable colors and how to make an effective dashboard
+
+Key Insights:
+1.) Revenue Generated Per city :
+ Mumbai: $660.64 M (Top)
+Bangalore: $415.03 M
+Hyderabad: $321.17 M
+Delhi: $290.92 M
+
+2.) Luxury generated more revenue . i.e. 61.62% as compared to Business which generated 38.38% of the total revenue i.e. $1.69 Billion
+
+3.) RevPAR is highest for Mumbai i.e. $8.9 Thousand and lowest for Hyderabad i.e. $5.4 Thousand
+
+4.) Occupancy % Is highest for Delhi i.e. 60.44% even when DSRN for Delhi is lowest i.e. 435 and lowest for Bangalore i.e. 55.68%. Management team can revise room prices in properties having low occupancy %
+
+5.) ADR is almost same for weekdays and weekends which indicates that Atliq Grands has flat prices for all its properties across all platforms. Additionally on weekends occupancy % is 6.79% more than weekdays but difference in RevPAR is negligible which confirms that Atliq Grands is not utilizing dynamic pricing. Implementing this strategy for weekends(Fri-Sat) can ensure more revenue generation.
+
+6.) Highest rated property is Atliq Exotica (Mumbai) rating: 4.32 while lowest rated is Atliq Seasons (Mumbai) rating: 2.30
+Highest rated city is Delhi with average rating: 3.78 and lowest rated city is Bangalore: 3.41
+ 
+7.) Overall Cancellation% is 24.84% with maximum cancellations for properties in Delhi i.e. 25.03%. Revenue lost due to cancellations is around $295 Million, with Atliq Exotica having accounted for $54 Million of revenue lost
+
+8.) Makeyourtrip accounts for 25.03% cancellation across all cities and all properties. Management team will need to take actions as cancellations impact hotel rankings adversely in search result which will lead to less booking and less revenue.
+
+9.) User ratings have a direct impact on bookings, hence the management can work on improving user experience (good service, cleanliness, complimentary meal, overall user experience etc.) to improve ratings and consequently increase revenue.
+
