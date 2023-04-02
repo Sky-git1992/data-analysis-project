@@ -1,6 +1,6 @@
 Power BI Project: Hospitality Domain
 In this project, I have analyzed a data set from hospitality industry.
-Data set is from codebasics
+
 Approach:
 1.     Analyzed the data set and studied the tables.
 2.     Data cleaning – Using power query
